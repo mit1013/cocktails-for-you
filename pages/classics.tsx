@@ -19,7 +19,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg',
   },
   {
-    id: 1,
+    id: 3,
     name: 'Margerita',
     description:
       'Tequila and triple sec combine in this fabulous short cocktail mixed with lime juice. Garnish the rim of the glass with salt for that extra punch',
@@ -27,7 +27,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg',
   },
   {
-    id: 2,
+    id: 4,
     name: 'Pina Colada',
     description:
       'A tropical blend of rich coconut cream, white rum and tangy pineapple – serve with an umbrella for kitsch appeal.',
@@ -35,7 +35,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg',
   },
   {
-    id: 1,
+    id: 5,
     name: 'Margerita',
     description:
       'Tequila and triple sec combine in this fabulous short cocktail mixed with lime juice. Garnish the rim of the glass with salt for that extra punch',
@@ -43,7 +43,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg',
   },
   {
-    id: 2,
+    id: 6,
     name: 'Pina Colada',
     description:
       'A tropical blend of rich coconut cream, white rum and tangy pineapple – serve with an umbrella for kitsch appeal.',
@@ -51,7 +51,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg',
   },
   {
-    id: 1,
+    id: 7,
     name: 'Margerita',
     description:
       'Tequila and triple sec combine in this fabulous short cocktail mixed with lime juice. Garnish the rim of the glass with salt for that extra punch',
@@ -59,7 +59,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg',
   },
   {
-    id: 2,
+    id: 8,
     name: 'Pina Colada',
     description:
       'A tropical blend of rich coconut cream, white rum and tangy pineapple – serve with an umbrella for kitsch appeal.',
@@ -67,7 +67,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg',
   },
   {
-    id: 1,
+    id: 9,
     name: 'Margerita',
     description:
       'Tequila and triple sec combine in this fabulous short cocktail mixed with lime juice. Garnish the rim of the glass with salt for that extra punch',
@@ -75,7 +75,7 @@ const CLASSIC_COCKTAILS = [
       'https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg',
   },
   {
-    id: 2,
+    id: 10,
     name: 'Pina Colada',
     description:
       'A tropical blend of rich coconut cream, white rum and tangy pineapple – serve with an umbrella for kitsch appeal.',
