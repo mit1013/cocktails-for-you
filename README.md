@@ -1,3 +1,3 @@
-coctails for you app
+Cocktails-For-You!
 
-search and view cocktail ideas
+Cocktail recipies and random drink ideas
