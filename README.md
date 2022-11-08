@@ -2,6 +2,6 @@ Cocktails-For-You!
 
 Choose what to drink
 
-Cocktail recipies and random drink ideas
+uncommited change
 
 Choose from a list of classics or search for your favourite
